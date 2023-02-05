@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "hf-puller"
+  site-url: "https://xianbaoqian.github.io/hf-puller"
+  description: "A Space that pulls files to HF repos."
+  repo-branch: main
+  repo-url: "https://github.com/xianbaoqian/hf-puller"
