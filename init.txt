@@ -1,3 +1,4 @@
 $ git config --global user.email "xianbao.qian@gmail.com"
 $ git config --global user.name "Tiezhen WANG"
 $ git config --global credential.helper store
+$ nbdev_install_hooks
